@@ -1,0 +1,13 @@
+/.vs
+/Library
+/Logs
+/obj
+/Release-Win64
+/.vsconfig
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/com.logviewer.editor.csproj
+/com.logviewer.runtime.csproj
+/Main.csproj
+/TestHy.sln
+/HybridCLRData
